@@ -5,7 +5,7 @@ import requests
 import gdown
 
 # URL for the file from Google Drive
-url = 'https://drive.google.com/uc?id=1973jZbAIkoJUNcwutQ6EEuxIfked4GYS'
+url = 'https://drive.google.com/uc?id=1DWs_S2rR9aNvkxAs8bX9tOOttEkjR9hr'
 output = 'similarity.pkl'
 
 # Download the file from Google Drive
